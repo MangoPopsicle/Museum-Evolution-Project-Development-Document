@@ -9,7 +9,7 @@
 [摄影制图法工作流程指南（3）](https://connect.unity.com/p/she-ying-zhi-tu-fa-gong-zuo-liu-cheng-zhi-nan-3)<br>
 [摄影制图法工作流程指南（4）](https://connect.unity.com/p/she-ying-zhi-tu-fa-gong-zuo-liu-cheng-zhi-nan-4)<br>
 [摄影制图法工作流程指南（完结篇）](https://connect.unity.com/p/she-ying-zhi-tu-fa-gong-zuo-liu-cheng-zhi-nan-wan-jie-pian)<br>
-*目前看来不用完全按照步骤来，ReCap的建模效果已经比较好了，导出为.obj可以直接导入到Unity里*
+*目前看来不用完全按照步骤来，ReCap的建模效果已经比较好了，导出为.obj可以直接导入到Unity里。*
 
 
 ## Autodesk教育计划
@@ -25,7 +25,7 @@
 [Vuforia开发完全指南（二）--- 不懂编程也能做AR程序](https://www.jianshu.com/p/5871935aba02)<br>
 [Vuforia开发完全指南（三）--- License Manager和Target Manager详解](https://www.jianshu.com/p/82ffb38d5f7a)<br>
 [Vuforia开发完全指南（四）---Image Target](https://www.jianshu.com/p/fc9cc7e8348b)<br>
-*现在绝大多数能找到的教程都和现在版本的操作有出入，一些调节部分可以参考一下，最新版的Unity可以直接在Window>Package Management搜索下载Vuforia，不用从Vuforia下载了，否则反而控件会出错。下载之后，所有教程里提到的功能都可以在GameObject>Vuforia里找到，不用通过拖文件的方式了。*
+*现在绝大多数能找到的教程都和现在版本的操作有出入，一些调节部分可以参考一下，最新版的Unity可以直接在Window>Package Management搜索下载Vuforia，不用从Vuforia官网下载了，否则反而控件会出错。下载之后，所有教程里提到的功能都可以在GameObject>Vuforia里找到，不用通过拖文件的方式了。*
 
 ##### Android
 [vuforia android 教程(1)](https://www.jianshu.com/p/37b158175b04)<br>
